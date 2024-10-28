@@ -2,5 +2,5 @@
 
 ### Repository contains the data and code used to carry out the analysis and generate the figures and tables in the paper.
 
-![Dispersal_methods](Dispersal_methods.png)
+![Graphical_abstract](Graphical_abstract.png)
 *Graphical abstract of the manuscript*
